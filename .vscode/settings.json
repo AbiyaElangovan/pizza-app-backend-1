@@ -1,0 +1,28 @@
+{
+    "cSpell.words": [
+        "addpizza",
+        "deletepizza",
+        "deleteuser",
+        "deliverorder",
+        "editedpizza",
+        "editpizza",
+        "getallorders",
+        "getallpizzas",
+        "getallusers",
+        "getpizzabyid",
+        "getuserorders",
+        "idempotency",
+        "johndoe",
+        "neworder",
+        "newpizza",
+        "orderid",
+        "pincode",
+        "pizzaid",
+        "placeorder",
+        "respone",
+        "userid",
+        "uuidv",
+        "varients",
+        "weong"
+    ]
+}
